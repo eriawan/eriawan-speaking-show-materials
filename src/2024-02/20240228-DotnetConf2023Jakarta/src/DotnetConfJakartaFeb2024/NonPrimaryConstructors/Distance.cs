@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace NonPrimaryConstructors
 {
-    internal class Distance
+    public readonly struct Distance
     {
-        public double Magnitude { get; }
+        public readonly double Magnitude { get; }
 
-        public double Direction { get; }
+        public readonly double Direction { get; }
 
         public Distance(double dx, double dy)
         {
