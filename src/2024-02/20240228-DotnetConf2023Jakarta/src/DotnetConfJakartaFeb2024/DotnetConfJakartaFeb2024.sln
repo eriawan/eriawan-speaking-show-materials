@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryConstructors", "PrimaryConstructors\PrimaryConstructors.csproj", "{63F9FB69-983F-4719-B967-E5547164A3C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimaryConstructors", "PrimaryConstructors\PrimaryConstructors.csproj", "{63F9FB69-983F-4719-B967-E5547164A3C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonPrimaryConstructors", "NonPrimaryConstructors\NonPrimaryConstructors.csproj", "{25371FF7-ED45-470E-B7F5-AC38766AAF99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NonPrimaryConstructors", "NonPrimaryConstructors\NonPrimaryConstructors.csproj", "{25371FF7-ED45-470E-B7F5-AC38766AAF99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionExpressions", "CollectionInitializers\CollectionExpressions.csproj", "{FAD62D3D-2DEE-4C0D-96B7-E3CC8877A582}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionExpressions", "CollectionInitializers\CollectionExpressions.csproj", "{FAD62D3D-2DEE-4C0D-96B7-E3CC8877A582}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpConstructorSample", "FSharpConstructorSample\FSharpConstructorSample.fsproj", "{818B22DF-AB7C-45CE-B75A-147E2C9D4898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FAD62D3D-2DEE-4C0D-96B7-E3CC8877A582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAD62D3D-2DEE-4C0D-96B7-E3CC8877A582}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAD62D3D-2DEE-4C0D-96B7-E3CC8877A582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818B22DF-AB7C-45CE-B75A-147E2C9D4898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818B22DF-AB7C-45CE-B75A-147E2C9D4898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818B22DF-AB7C-45CE-B75A-147E2C9D4898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818B22DF-AB7C-45CE-B75A-147E2C9D4898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
