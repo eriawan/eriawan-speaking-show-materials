@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net8WebApi01", "Net8WebApi01\Net8WebApi01.csproj", "{690BBFC3-7B0E-43EA-B25F-269FA39EC948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net8WebApp01", "Net8WebApp01\Net8WebApp01.csproj", "{38577082-9B8F-42F7-9FCA-B4FFD3A3FE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{690BBFC3-7B0E-43EA-B25F-269FA39EC948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690BBFC3-7B0E-43EA-B25F-269FA39EC948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690BBFC3-7B0E-43EA-B25F-269FA39EC948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690BBFC3-7B0E-43EA-B25F-269FA39EC948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38577082-9B8F-42F7-9FCA-B4FFD3A3FE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38577082-9B8F-42F7-9FCA-B4FFD3A3FE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38577082-9B8F-42F7-9FCA-B4FFD3A3FE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38577082-9B8F-42F7-9FCA-B4FFD3A3FE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB7FE82A-0B5E-4EC1-931F-0C6617289316}
+	EndGlobalSection
+EndGlobal
